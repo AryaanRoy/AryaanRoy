@@ -1,10 +1,9 @@
-- 👋 Hi, I’m @AryaanRoy
-- 👀 I’m interested in nothing
-- 🌱 I’m currently learning nothing
-- 💞️ I’m looking to collaborate on stuff
-- 📫 How to reach me: aryaanroycs@gmail.com
-- 😄 Pronouns: None
-- ⚡ Fun fact: No
+👋 Hi, I’m @AryaanRoy
+👀 I’m interested in fintech, machine learning, and data
+🌱 I’m currently learning life
+💞️ I’m looking to collaborate on innovative tech projects, especially in AI/ML and gaming
+📫 How to reach me: aryaanroycs@gmail.com
+⚡ Fun fact: I like video games
 
 <!---
 AryaanRoy/AryaanRoy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
