@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AryaanRoy
+- 👋 Hi, I’m Will
 - 👀 I’m interested in fintech, machine learning, and data
 - 🌱 I’m currently learning life
 - 💞️ I’m looking to collaborate on innovative tech projects, especially in AI/ML and gaming
